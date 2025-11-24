@@ -1,0 +1,6 @@
+pandas==2.3.3
+numpy==2.3.5
+plotly==6.5.0
+altair==5.5.0
+SQLAlchemy==2.0.44
+holidays==0.85
